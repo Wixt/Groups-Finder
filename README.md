@@ -1,5 +1,5 @@
 # Groups-Finder
 
->```py
+>```python
 >python main.py
 >```
